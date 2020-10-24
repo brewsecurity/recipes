@@ -11,3 +11,103 @@ Boil Time: 60 min
 Efficiency: 75%
 
 All Grain American IPA homebrew recipe. This homebrew recipe uses the  following ingredients: 2-Row - US, Maris Otter Pale - UK, Wheat Malt -  DE, Flaked Oats - US, Chinook  Hops, Amarillo  Hops, Simcoe  Hops, Citra  Hops, Mosaic Hops, Fermentis Safale US-05 Homebrew Yeast.                
+
+
+## Fermentables
+66% - 2-Row - US
+lb 8.7
+ppg   37
+L   1
+use   Mash
+16% - Maris Otter Pale - UK
+lb 2.1
+ppg   38
+L   3
+use   Mash
+10% - Wheat Malt - DE
+lb 1.3
+ppg   37
+L   2
+use   Mash
+8% - Flaked Oats - US
+lb 1
+ppg   37
+L   1
+use   Mash
+
+
+
+## Hops
+Chinook
+oz 1
+type Pellet
+usage Boil
+time 20 min(s)
+AA   13
+IBU 24.3
+
+Chinook
+oz 0.75
+type Pellet
+usage FlameOut
+time 0 min(s)
+AA   13
+IBU 0.0
+
+Amarillo
+oz 0.75
+type Pellet
+usage FlameOut
+time 0 min(s)
+AA   9
+IBU 0.0
+
+Simcoe
+oz 0.75
+type Pellet
+usage FlameOut
+time 0 min(s)
+AA   13
+IBU 0.0
+
+Citra
+oz 1.75
+type Pellet
+usage DryHop
+time 0 day(s)
+AA   12
+IBU 0.0
+
+Simcoe
+oz 1.75
+type Pellet
+usage DryHop
+time 0 day(s)
+AA   13
+IBU 0.0
+
+Amarillo
+oz 1.75
+type Pellet
+usage DryHop
+time 0 day(s)
+AA   9
+IBU 0.0
+
+Mosaic
+oz 1.75
+type Pellet
+usage DryHop
+time 0 day(s)
+AA   12.7
+IBU 0.0
+
+
+
+## Yeast
+name Fermentis Safale US-05
+attenuation   81%
+
+
+## Special Instructions
+1. mash @151 for 60 min 
