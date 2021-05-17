@@ -1,0 +1,83 @@
+# Monkish IPA
+
+
+Recipe Type: All Grain
+Batch Size: 5.5 Gallon(s)
+Boil Size: 7.5 Gallon(s)
+Boil Time: 60 min
+Efficiency: 70%
+All Grain homebrew recipe. This homebrew recipe uses the following ingredients: 2-Row - US, Golden Naked Oats - UK, Acidulated Malt - DE , Flaked Oats - US, Warrior Hops, Citra Hops, Galaxy Hops, Imperial A034 Barbarian Homebrew Yeast. 
+
+
+Fermentables
+84% - 2-Row - US
+lb 14.5
+ppg   37
+L   1
+use   Mash
+4% - Golden Naked Oats - UK
+lb 0.75
+ppg   33
+L   10
+use   Mash
+3% - Acidulated Malt - DE
+lb 0.5
+ppg   27
+L   3
+use   Mash
+9% - Flaked Oats - US
+lb 1.5
+ppg   37
+L   1
+use   Mash
+17.25 lb total fermentables
+
+Hops
+Warrior
+oz 0.75
+type Pellet
+usage Boil
+time 10 min(s)
+AA   16
+IBU 11.5
+
+Citra
+oz 3
+type Pellet
+usage FlameOut
+time 0 min(s)
+AA   12
+IBU 0.0
+
+Galaxy
+oz 3
+type Pellet
+usage FlameOut
+time 0 min(s)
+AA   14.2
+IBU 0.0
+
+Citra
+oz 5
+type Pellet
+usage DryHop
+time 5 day(s)
+AA   12
+IBU 0.0
+
+Galaxy
+oz 5
+type Pellet
+usage DryHop
+time 5 day(s)
+AA   14.2
+IBU 0.0
+
+16.75 oz total hops
+
+Yeast
+Imperial A034 Barbarian - attenuation   73%
+
+Special Instructions
+1. Mash @ 152' for 60 mins
+2. Ferment at 67' 
